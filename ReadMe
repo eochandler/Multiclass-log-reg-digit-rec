@@ -1,0 +1,8 @@
+ Implement multiclass logistic regression from scratch, using gradient descent, and test
+ your algorithm on the Iris dataset
+ 
+ Implement multiclass logistic regression from scratch using stochastic gradient descent, 
+ and use it to classify handwritten digits using the MNIST dataset.
+ 
+ Use tensorflow to train a neural network to classify MNIST datasets. Enter the following
+ Kaggle competition and report your categorization accuracy
